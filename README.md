@@ -16,9 +16,3 @@ DigiDoctor is an AI-powered health assistant built using React.js. It allows use
 - **APIs:** Public Symptom Checker API / Disease Prediction API
 - **Others:** JavaScript (ES6), Git, VS Code, npm
 
-## 📦 Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/digidoctor.git
-   cd digidoctor
