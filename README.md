@@ -1,3 +1,4 @@
+DigiDoctor is a symptom checker website that uses AI to analyze user-input symptoms and predict possible diseases. It helps users get quick health insights and understand potential conditions before consulting a professional.
 # 🩺 DigiDoctor – AI Symptom Checker
 
 DigiDoctor is an AI-powered health assistant built using React.js. It allows users to input their symptoms and predicts possible diseases through Open API integration. The app also features flashcards for quick guidance in critical or emergency situations.
